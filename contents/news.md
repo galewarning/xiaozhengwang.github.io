@@ -1,11 +1,2 @@
--   Test News
-
--   First-prize Academic Scholarship, 2023.
-
--   Freshman Academic Scholarship, 2022.
-
--   Excellent Graduation Project of Jiangsu Province, 2022.
-
--   First-prize Enterprise Scholarship, 2021.
-
--   First-prize Academic Scholarship, 2019.
+-   <strong>June 2024</strong> attending HCIC' 24 in Dalavan, WI
+-   <strong>May 2024</strong> attending CHI' 24 in Hawaii
